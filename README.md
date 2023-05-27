@@ -3,3 +3,6 @@ Programme de cassage de mot de passe utilisant une attaque par dictionnaire. Il 
 Fonctionnalités:
 Recherche de mot de passe par hash : le programme parcourt le dictionnaire et compare le hash entré avec les hashs de tous les mots de passe du dictionnaire jusqu'à ce qu'il trouve le mot de passe correspondant au hash et l'affiche.
 Vérification de mot de passe clair : le programme parcourt le dictionnaire et vérifie si le mot de passe clair entré se trouve dans le dictionnaire.
+
+
+Nos fichiers dictionnaires étant volumineux nous vous invitons à d'abord les télécharger avant de tester le code.
